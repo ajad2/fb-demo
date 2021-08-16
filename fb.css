@@ -1,0 +1,132 @@
+.header{
+    background:  #3b5998;
+    width:100%;
+    height:70px;
+}
+.logo{
+    width:50%;
+    padding-top: 20px;
+    float: left;
+}
+.login{
+    color: white;
+    width:50%;
+    float: left;
+}
+.logo-text{
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 90px;
+}
+body{
+    margin:0;
+}
+.login-label{
+    color: white;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 2px;
+
+}
+.forgotton{ 
+
+    float: left;
+    font-size: 13px;
+    color: white;
+    text-decoration: none;
+}
+.sub-btn{
+    
+    background: #4267b2;
+    color: white;
+    height: 20px;
+    border-color: #4267b2;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: navy;
+}
+.left-section{
+    width:50%;
+    float: left;
+    padding-left: 87px;
+    padding-top: 40px
+}
+.right-section{
+    width:43%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 600px;
+}
+.image{
+     width: 500px;
+    float: left;
+}
+.head{
+    font-weight: bold;
+}
+.par{
+    margin-top: -16px;
+    font-size:16px;
+}
+.mob{
+    margin-top:10px;
+    width:350px;
+    height: 20px;
+    border-color: gainsboro;
+}
+.pass{
+    margin-top:10px;
+    width:350px;
+    height: 20px;
+    border-color: gainsboro;
+}
+.fname{
+    margin-top:10px;
+    width:169px;
+    height: 20px;
+    border-color: gainsboro;
+}
+.dob{
+    border-color: gainsboro;
+    height: 28px;
+}
+.dlink{
+    text-decoration: none;
+    color:blue;
+    float: right;
+    padding-right: 264px;
+    font-size: 14px;
+
+}
+.gender{
+
+    margin-top: 15px;
+}
+.paraterms{
+    font-size:12px;
+    text-decoration:none;
+}
+.but{
+    font-size: 20px;
+    width: 200px;
+    height: 45px;
+    font-weight: bold;
+    background: green;
+    color: white;
+    border-radius: 4px;
+    border-color: green;
+    margin-top: 10px;
+}
+.cap{
+    text-decoration: none;
+}
